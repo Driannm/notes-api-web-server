@@ -9,5 +9,3 @@ This project has several features:
 - Applying CORS to all existing resources,
 - Updating Notes
 - Deleting Notes
-
-[![Dicoding-Academy]( https://img.shields.io/badge/Dicoding-Academy)]([https://katherineoelsner.com/](https://www.dicoding.com/academies/261/corridor))
